@@ -2,7 +2,7 @@
 
 meu nome é Jeniffer Heloisa
 
-- Estou estudando na alura
+- Estou estudando na [alura]
 - Estou desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -10,4 +10,10 @@ meu nome é Jeniffer Heloisa
 
   jeniffer.ferreira.araujo@escola.pr.gov.br
   
-  @eu_jeniffer
+  @eu_jeniffer_7
+
+
+
+![](https://media1.tenor.com/m/W_gMHTCi3x4AAAAd/iu-cute.gif)
+
+
