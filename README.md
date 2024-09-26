@@ -2,7 +2,7 @@
 
 meu nome é Jeniffer Heloisa
 
-- Estou estudando na [alura]
+- Estou estudando na [alura](https://www.alura.com.br)
 - Estou desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
